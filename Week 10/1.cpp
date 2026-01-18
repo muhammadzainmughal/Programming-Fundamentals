@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main() 
+{            // 1 sy n tk ky natural number 
+    int N;
+    cout<<"Enter a number: ";
+    cin>>N;
+
+    for(int i = 1; i <= N; i++) {
+    cout<< i <<" "<<endl;
+    }
+
+    return 0;
+}
+
