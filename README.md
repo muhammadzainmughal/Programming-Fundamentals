@@ -1,21 +1,20 @@
 # Programming Fundamentals – C++ & Software Development
 
-## 👤 Student Information
 - **Name:** Muhammad Zain Mughal  
 - **Course:** Programming Fundamentals  
 - **Focus:** C++ & Software Development  
 - **Semester:** 1  
 - **University:** University of AJK  
 
-## 📌 Description
+## Description
 This repository contains my Semester 1 lab work for **Programming Fundamentals**, focusing on **C++ programming** and basic **software development concepts**.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - C++
 - Git & GitHub
 - VS Code
 
-## 📂 Contents
+## Contents
 - C++ lab programs  
 - Practice exercises  
 - Software development basics  
