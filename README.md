@@ -1,25 +1,23 @@
-# GitHub Labs – Semester 1
+# Programming Fundamentals – C++ & Software Development
 
 ## 👤 Student Information
 - **Name:** Muhammad Zain Mughal  
+- **Course:** Programming Fundamentals  
+- **Focus:** C++ & Software Development  
 - **Semester:** 1  
-- **Subject:** GitHub Labs  
+- **University:** University of AJK  
 
 ## 📌 Description
-This repository contains my lab work and practice tasks for **Semester 1 GitHub Labs**.  
-It includes basic exercises related to version control, repositories, and GitHub fundamentals.
+This repository contains my Semester 1 lab work for **Programming Fundamentals**, focusing on **C++ programming** and basic **software development concepts**.
 
 ## 🛠️ Tools & Technologies
-- Git
-- GitHub
+- C++
+- Git & GitHub
 - VS Code
 
 ## 📂 Contents
-- Lab tasks
-- Practice files
-- Assignments
-
-## ✅ Status
-Completed / In Progress
+- C++ lab programs  
+- Practice exercises  
+- Software development basics  
 
 ---
